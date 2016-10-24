@@ -23,6 +23,7 @@ Then in www/index.html
 
 When running in electron, clicking on "Link" will cause a crash of the app after a few seconds.
 
+You can reproduce this issue building the app from sources or launching build/electron_app-darwin-x64/electron_app.app
 
 ## Installation
 
